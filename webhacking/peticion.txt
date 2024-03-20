@@ -1,0 +1,2 @@
+curl -X POST -d '{"uemail":"student@test.local","password":"batman","login":"login"}' http://webs
+ec.center:8003/welcome.php

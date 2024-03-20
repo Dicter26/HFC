@@ -1,0 +1,3 @@
+GET HTTP/1.1
+Host: websec.center
+User-Agent: Mozilla/5.0 (iPad; CPU OS 16_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/114.0.5735.124 Mobile/15E148 Safari/604.1

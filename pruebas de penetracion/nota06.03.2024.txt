@@ -1,0 +1,59 @@
+06.03.2024
+
+Definiciones:
+
+1. Pruebas de Penetración.
+2.Analisis de Vulnerabilidades.
+3. Ejercicios de Red Teaming
+
+1. Medir la postura de seguridad de una organización.
+2. Identificar, analizar y gestionar vulnerabilidades para implementar controles para el control del riesgo
+3. Ayuda a las organizaciones a medir los controles que ya estan implementados.
+
+Metodologia:
+
+pre-engagement
+Reconnaissance 
+Vulnerability Analysis
+Password Attacks 
+Explotation
+Post-Explotation
+Reporting
+
+Sans - https://www.sans.org/blog/sans-poster-building-a-better-pen-tester-pdf-download/
+
+Metodologia - Pre-Engagement
+
+Documentación
+
+NDA - Non Disclosure Agreement
+RoE - Rules of Engagement
+	* Alcance (tipos de pruebas, personas involucradas)
+	* Fechas de inicio y fin del pentest ()
+	* Analistas involucrados
+	* Pruebas fuera de alcance
+	* Etc.
+Aprobacion
+
+Metodologia - Reconnaissance
+Pasiva y Activa:
+
+Pasiva - Usar fuentes indirectas de la organización.
+Activa - Hacer consultas a los activos de la organización.
+
+Reconocimiento Pasivo:
+SHODAN / FOFA: Escaneo de internet, que es lo que esta expuesto (puertos)
+google Dorks
+Redes sociales
+nombre de empleados
+linkedin
+
+
+nameserver: -ns
+host 
+
+enumera los servidores del dominio
+
+hacer un script que resuelva nombres dada una ip nombre ptr
+hacer un script que resuelva ip dado un nombre 
+
